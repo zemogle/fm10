@@ -1,6 +1,6 @@
 AUTHOR = 'Edward Gomez'
-SITENAME = 'IAU GA2024 Focus Meeting 10'
-SITESUBTITLE = 'Teaching capacity of remote observing facilities for the Universities and High Schools'
+SITESUBTITLE = 'IAU GA2024 Focus Meeting 10'
+SITENAME = 'Teaching capacity of remote observing facilities for the Universities and High Schools'
 SITEURL = ''
 
 PATH = 'content'
@@ -15,7 +15,7 @@ THEME = 'themes/bulma_profile/'
 LINKS = (
         ('Home','/'),
         ('Program', '/program/'),
-         ('Talks', '/talks/'),
+         ('Talks & Posters', '/talks/'),
          ('SOC','/scientific-organizing-committee/')
 )
 
