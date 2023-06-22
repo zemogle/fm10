@@ -4,7 +4,8 @@ slug: program
 This Focus Meeting concentrates on the capacity and feasibility to build networks of
 remote/robotic telescopes for educational use at undergraduate and high school level (last
 years). Access to remote/robotic telescopes will contribute in building a critical mass of
-astronomers, but most important, it will contribute to STEM education.
+astronomers, but most importantly, it will contribute to STEM education.
+
 The ultimate goal is to enhance the scientific capacity of Global South countries. Performing
 research-oriented, observation-based hands-on projects using remote/robotic telescopes
 allows young students to maintain and raise their interest in STEM-oriented disciplines.
