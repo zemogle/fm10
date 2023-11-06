@@ -5,9 +5,9 @@ status: hidden
 Date: 2022-03-03 10:20
 ---
 
-**August 13th 2024, IAU General Assembly, Cape Town**
+**August 13th & 16th 2024, IAU General Assembly, Cape Town**
 
-*3 sessions : 10:30 – 12:00; 13:30-15:00; 15:30-17:00*
+*6 sessions : 10:30 – 12:00; 13:30 – 15:00; 15:30 – 17:00 (times for both days)*
 
 This Focus Meeting concentrates on the capacity and feasibility to build networks of
 remote/robotic telescopes for educational use at undergraduate and high school level (last
