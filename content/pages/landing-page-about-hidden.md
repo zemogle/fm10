@@ -9,9 +9,9 @@ Date: 2022-03-03 10:20
 
 *6 sessions : 10:30 – 12:00; 13:30 – 15:00; 15:30 – 17:00 (times for both days)*
 
-The call is now open for abstracts and grants for this Focus Meeting. All applications are made via the [IAU General Assembly website](https://astronomy2024.org/abstracts-grants/). 
+We are seeking input from the community in compiling a list of robotic telescopes for research and education.
 
-Deadline for submission is **1 March 2024**.
+<a href="/talks/" class="button is-primary">Robotic Telescopes Survey</a>
 
 ### Summary
 
