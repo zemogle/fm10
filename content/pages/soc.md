@@ -18,7 +18,7 @@ Priya | Hasan | Maulana Azad National Urdu University | India | F
 Katrien | Kolenberg | KU Leuven University | Belgium | F
 Brenda | Namumba | University of Witwatersrand | South Africa | F
 Bonaventure | Okere | Centre for Basic Space Science, Nsukka | Nigeria | M
-Myriam | Pajuelo | Pontificia Universidad Católica, Lima | Peru | F
+Myriam | Pajuelo | Pontificia Universidad Católica del Perú | Peru | F
 Prospery | Simpemba | Copperbelt University, Kitwe | Zambia | M
 Kshitij | Thorat | University of Pretoria | South Africa | M
 Ramasamy | Venugopal | Office of Astronomy for Development, Cape Town | South Africa | M
