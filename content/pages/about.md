@@ -32,7 +32,7 @@ remote/robotic telescopes through the OAD applications: purposes and public.
 - Edward Gomez (Las Cumbres Observatory, Cardiff, UK): an overview of the use
 of telescope time granted for education at LCO: purposes and public.
 - Myriam Pajuelo (Pontificia Universidad Católica del Perú): an example of use
-remote/robotic telescopes for undergrads at the PUC, Lima, Peru.
+remote/robotic telescopes for undergrads at the PUCP, Lima, Peru.
 
 ## II - The future:
 The desired outcomes of this session are:
