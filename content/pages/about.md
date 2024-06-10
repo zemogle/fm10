@@ -29,9 +29,9 @@ Instructors been trained? Other lessons that other can learn from?
 
 - Ramasamy Venugopal and Kevin Govender (OAD, South Africa): an overview of the use of
 remote/robotic telescopes through the OAD applications: purposes and public.
-- Edward Gomez (Las Cumbres Observatory, Cardiff, Great Britain): an overview of the use
-of the granted telescope time for education at LCO: purposes and public.
-- Myriam Pajuelo (Pontificia Universidad Católica, PUC, Lima, Peru): an example of use
+- Edward Gomez (Las Cumbres Observatory, Cardiff, UK): an overview of the use
+of telescope time granted for education at LCO: purposes and public.
+- Myriam Pajuelo (Pontificia Universidad Católica del Perú): an example of use
 remote/robotic telescopes for undergrads at the PUC, Lima, Peru.
 
 ## II - The future:
