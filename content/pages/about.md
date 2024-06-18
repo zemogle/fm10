@@ -1,5 +1,5 @@
 Title: Program outline
-slug: program
+slug: rationale
 
 This Focus Meeting concentrates on the capacity and feasibility to build networks of
 remote/robotic telescopes for educational use at undergraduate and high school level (last
