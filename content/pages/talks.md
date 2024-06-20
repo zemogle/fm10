@@ -72,8 +72,8 @@ Time | Title | Author | Talk Type
 13:30 | From City Lights to Starry Nights: Robotic Telescopes Enabling Accessible Education in Pakistan | Hira Fatima | Invited
 13:40 | Astrolab and its impact on the development of Astronomy teaching at the University of Zululand | Dr  Getachew Mekonnen | Invited
 13:50 | Growing Needs for Remote Telescope Observations in Modern Day-research: Progress and Prospects | Nnameka Njoku-Achu | Contributed
-14:00 | Strengthening  undergraduate education using remote telescopes, Prof Paul Baki | Contributed 
-14:10 | Teaching astronomy with ASTROLAB, a Peruvian experience, Dr Myriam Pajuelo | Invited
+14:00 | Strengthening  undergraduate education using remote telescopes | Prof Paul Baki | Contributed 
+14:10 | Teaching astronomy with ASTROLAB, a Peruvian experience | Dr Myriam Pajuelo | Invited
 14:20 | Connecting Skies: The Evolution and Impact of Global Hands-On Universe (GHOU) in Astronomy Education | Prof Hassane Darhmaoui | Contributed
 14:30 | Discussion on the presentations   
 
