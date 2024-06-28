@@ -44,7 +44,7 @@ Time | Title | Author | Talk Type
 16:00 | The use of Oukaimeden Observatory remote observing facilities for training STEM and Education | Dr Abdelmajid Benhida | Invited
 16:20 | Las Cumbres Observatory: demonstrating the power of robotic telescope networks for education | Dr Edward Gomez | Invited
 16:35 | Education, Outreach and Research Using the Thai Robotic Telescopes | Dr Boonrucksar S | Contributed
-16:45 | Skynet Astromancer and Astronomicon: designing a suite of tools to facilitate course-based research with robotic telescopes at the introductory level | Dr Daryl Jansen | Contributed
+16:45 | Skynet Astromancer and Astronomicon: designing a suite of tools to facilitate course-based research with robotic telescopes at the introductory level | Dr Daryl Janzen | Contributed
 16:55 | Discussion on the presentations    
 
 ----
