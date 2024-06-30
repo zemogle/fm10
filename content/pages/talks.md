@@ -1,4 +1,4 @@
-Title: Talks & Posters
+Title: Talks 
 slug: talks
 
 
@@ -8,9 +8,11 @@ We are surveying the community to find out what telescopes and networks of teles
 
 <a href="https://forms.gle/3bStCfnpUwLXwf8u5" class="button is-link">Robotic Telescopes Survey</a>
 
+# Talks
+
 ## Tuesday 13 August
 
-**10:00 - 10:30 FM10 Poster Session**
+**10:00 - 10:30** [FM10 Poster Session](/posters/#aug-13)
 
 ### FM10-1 
 Time | Title | Author | Talk Type 
@@ -21,7 +23,7 @@ Time | Title | Author | Talk Type
 11:00 | Leveraging Ghana’s 32-metre radio telescope for astronomy training | Dr Proven-Adzri | Contributed
 11:10 | Educational Use of the North-West University 4-Element Radio Interferometer | Prof James Chibueze | Contributed
 11:20 | Discussion on the presentations
-11:50 | 10 Lightning talks for meeting posters  (1 minute per poster)       
+11:50 | 10 Lightning talks for meeting posters  (1 minute per poster) - [order on posters page](/posters/#aug-13)
 
 **Coffee break**
 
@@ -34,8 +36,9 @@ Time | Title | Author | Talk Type
 14:00 | STEM education with robotic telescopes: lessons from the PETeR project | Dr Nayra Rodriguez-Eugenio | Contributed
 14:10 | Sustainable Development of Astronomy Research Education in Sri Lanka with Remote Observations | Dr Thilina Heenatigala | Contributed
 14:20 | Discussion on the presentations
+14:50 | 10 Lightning talks for meeting posters  (1 minute per poster) - [order on posters page](/posters/#aug-15)
 
-**15:00 - 15:30 FM10 Poster Session**
+**15:00 - 15:30** [FM10 Poster Session](/posters/#aug-13)
 
 ### FM10-3 - Demo session
 Time | Title | Author | Talk Type 
@@ -51,7 +54,7 @@ Time | Title | Author | Talk Type
 
 ## Thursday 15 August
 
-**10:00 - 10:30 FM10 Poster Session**
+**10:00 - 10:30** [FM10 Poster Session](/posters/#aug-15)
 
 ### FM10-4
 Time | Title | Author | Talk Type 
@@ -77,7 +80,7 @@ Time | Title | Author | Talk Type
 14:20 | Connecting Skies: The Evolution and Impact of Global Hands-On Universe (GHOU) in Astronomy Education | Prof Hassane Darhmaoui | Contributed
 14:30 | Discussion on the presentations   
 
-**15:00 - 15:30 FM10 Poster Session**
+**15:00 - 15:30** [FM10 Poster Session](/posters/#aug-15)
 
 ### FM10-6
 Time | Title | Author | Talk Type 
@@ -86,3 +89,4 @@ Time | Title | Author | Talk Type
 15:40 | Barriers to entry for high school (and university) education with robotic telescopes | Dr Michael Fitzgerald | Invited
 15:50 | Discussion on presentations                                                
 16:00 | Round Table on Access to Remote/Robotic observing facilities for Universities and High Schools 
+

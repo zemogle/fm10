@@ -15,7 +15,8 @@ THEME = 'themes/bulma_profile/'
 LINKS = (
         ('Home','/'),
         ('Scientific Rationale', '/rationale/'),
-         ('Talks & Posters', '/talks/'),
+         ('Talks', '/talks/'),
+         ('Posters', '/posters/'),
          ('SOC','/scientific-organizing-committee/')
 )
 
