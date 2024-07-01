@@ -3,7 +3,9 @@ slug: posters
 
 # Posters
 
-If you wish to introducte your poster you will be able to submit a single slide (with no transitions) and speak for no longer than 1 minute. Slides will automatically advance and will be presented in the following order.
+If you wish to introduce your poster you will be able to submit a single slide (with no transitions) and speak for no longer than 1 minute. Slides will automatically advance and will be presented in the following order.
+
+Submit your *single slide* to : <gerbaldi@iap.fr>
 
 ## August 13 Posters {#aug-13}
 
@@ -37,4 +39,4 @@ ID | Title | Author
 1751 | Observing Programmes in Cloudy, Rainy, Bright, Sites | Jake Noel-Storr
 1795 | Remote telescope-based curricula for undergraduate introductory astronomy | Rachel Freed
 2760 | Outreach and engagement with autonomous telescopes: achievements and future plans | Carlos Gutierrez
-3143 | FUT – a telescope in Australia being remote-controlled by high-school students in Denmark | Karsten    Brogaard 
+3143 | FUT – a telescope in Australia being remote-controlled by high-school students in Denmark | Karsten Brogaard 
