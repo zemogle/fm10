@@ -16,7 +16,7 @@ ID | Title | Author
 152 | The Building of the Thacher Observatory and its Successful High School Curriculum and Research Programs | Jonathan Swift
 590 | Evaluation of Astronomy Education and Outreach Projects -- What, Why and How? | Linda Strubbe
 959 | Empowering Ghana's STEM Education: Bridging the Gap through Capacity Building in Astronomy Instrumentation | Forson Albert
-979 | Finding Space for Observational Astronomy in the Secondary Science Curriculum | Dorothy Hill Observatory
+979 | Finding Space for Observational Astronomy in the Secondary Science Curriculum | Gerri Bernard
 1114 | Empowering High School Students through Remote Asteroid Science Education: A Case Study of the Pan-Africa Asteroid Search Campaign | meryem guennoun
 1467 | Robotic telescopes can change the trajectory of student’s study and careers in STEM. Perspectives on the impacts and lessons learned from building a high school based remotely accessible observatory and how it has changed my own career trajectory. | Andrew Yen
 1795 | Remote telescope-based curricula for undergraduate introductory astronomy | Rachel Freed
