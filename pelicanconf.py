@@ -1,7 +1,7 @@
 AUTHOR = 'Edward Gomez'
 SITESUBTITLE = '13 &amp; 15 August 2024 - IAU GA2024 Focus Meeting 10'
 SITENAME = 'Teaching capacity of remote observing facilities for Universities and High Schools'
-SITEURL = ''
+SITEURL = 'https://www.zemogle.net/fm10'
 
 PATH = 'content'
 

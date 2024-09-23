@@ -5,8 +5,6 @@ slug: posters
 
 If you wish to introduce your poster you will be able to submit a single slide (with no transitions) and speak for no longer than 1 minute. Slides will automatically advance and will be presented in the following order.
 
-Submit your *single slide* to : <gerbaldi@iap.fr>
-
 ## August 13 Posters {#aug-13}
 
 1-minute lightning talks for the following posters at **11:50, August 13**

@@ -7,11 +7,7 @@ Date: 2022-03-03 10:20
 
 **August 13th & 15th 2024, IAU General Assembly, Cape Town**
 
-<p class="notification is-success">Programme of talks is now live. <a href="/talks/">See the full programme.</a></p>
-
-We are seeking input from the community in compiling a list of robotic telescopes for research and education.
-
-<a href="/talks/" class="button is-link">Robotic Telescopes Survey</a>
+This Focus Meeting and the IAU GA has concluded. We thank all the participants both in person and online for their contributions.
 
 ### Summary
 

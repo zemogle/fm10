@@ -1,15 +1,6 @@
 Title: Talks 
 slug: talks
 
-
-### Robotic Telescopes for Research and Education Survey
-
-We are surveying the community to find out what telescopes and networks of telescopes are available for use in education for research.
-
-<a href="https://forms.gle/3bStCfnpUwLXwf8u5" class="button is-link">Robotic Telescopes Survey</a>
-
-# Talks
-
 ## Tuesday 13 August
 
 **10:00 - 10:30** [FM10 Poster Session](/posters/#aug-13)
